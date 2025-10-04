@@ -1,0 +1,12 @@
+# Project place file
+/luau-typed-enum.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Wally
+/wally.lock
+
+# Rojo
+/sourcemap.json
